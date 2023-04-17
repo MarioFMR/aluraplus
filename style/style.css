@@ -193,7 +193,7 @@ body {
     }
 
     .primario {
-        display: inline-block;
+        display: flex;
         background-position: right;
         background-size: cover;
     }
